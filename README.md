@@ -1,4 +1,4 @@
-# 🚗 SAMSAT PDF → Excel Converter
+# 🚗 SAMSAT PDF to Excel Converter
 
 Aplikasi Streamlit untuk mengkonversi file PDF **Detail Penerimaan Per Transaksi Kasir** dari SAMSAT Jawa Timur ke format Excel.
 
